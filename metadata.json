@@ -1,0 +1,5 @@
+{
+  "name": "Copy of V1_Negotiation_full_info_role_AI_RETAILER",
+  "description": "A web application where users can practice supply chain negotiation against an AI-powered retailer. The AI uses the Nash Bargaining Solution to aim for optimal outcomes.",
+  "requestFramePermissions": []
+}
